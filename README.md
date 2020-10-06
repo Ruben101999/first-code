@@ -55,7 +55,6 @@ Pasos:
         ```
     - Cambiamos el estilo (```font-family```) y el tamaño (```font-size```) de fuente al encabezado (sección head: ```class="header"```).
     [Google Fonts](https://fonts.google.com/ "fuentes")
-    : 
     
 
 - - - -
