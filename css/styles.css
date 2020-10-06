@@ -3,8 +3,9 @@
 }
 
 html {
-    font-family: fa5-proxima-nova, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font-size: 16px;
+    font-family: 'Architects Daughter', cursive;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
 }
 
 body {
@@ -20,7 +21,7 @@ body {
     text-align: center;
     height: 50vh;
     font-family: 'Architects Daughter', cursive;
-    font-size: 20px;
+    font-size: 30px;
 }
 
 
@@ -39,6 +40,25 @@ body {
     content: "";
     display: table;
     clear: both;
+}
+
+
+/*Gallery*/
+
+.gallery {
+    padding: 20px;
+    float: left;
+    width: 33.33%;
+}
+
+.gallery img,
+.inlineImg img {
+    width: 100%;
+}
+
+div.description {
+    padding: 15px;
+    text-align: center;
 }
 
 
