@@ -49,12 +49,12 @@ Pasos:
         padding: top left right bottom;
         ```
     - Eliminamos el menú de navegación (HTML y estilos asociados).
-    - Vamos a darle una altura de la mitad de la vertical de la página al encabezado (sección head: ```class="header"```).
+    - Vamos a darle una altura de la mitad de la vertical de la página al encabezado ```class="header"```.
         ```CSS
         height: 50vh;
         ```
-    - Cambiamos el estilo (```font-family```) y el tamaño (```font-size```) de fuente al encabezado (sección head: ```class="header"```).
-    [Google Fonts](https://fonts.google.com/ "fuentes")
+    - Cambiamos el estilo ```font-family``` y el tamaño ```font-size``` de fuente al encabezado ```class="header"```.
+        - [Google Fonts](https://fonts.google.com/ "fuentes")
     
 
 - - - -
