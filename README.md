@@ -21,7 +21,7 @@ Pasos:
     ```
     first-code
         - css/
-            - styles.css
+            styles.css
         - img/
         - view/
         - index.html
