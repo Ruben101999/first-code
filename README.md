@@ -2,7 +2,7 @@
 https://dannylarrea.github.io/first-code/
 - - - -
 ## 30 de septiembre y 1 de octubre :white_check_mark:
-Comandos ***Git***
+Comandos **Git**
 ```git
     git clone HTTPS
     git pull
