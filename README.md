@@ -18,7 +18,7 @@ Objetivo:
 
 Pasos:
 1. Generar la estructura de directorios y ficheros del proyecto:
-    ```hash
+    ```JS
     first-code
         - css/
             styles.css
@@ -36,16 +36,27 @@ Pasos:
     -->
     ```
 4. Editamos el proyecto:
-    - Añadimos título
+    - Añadimos un título a la página
+        ```HTML
+        <title>First Code</title>
+        ```
     - Nos quedamos únicamente con una columna que ocupe el 100% de ancho de la página.
-    ```CSS
-    width: 100%;
-    ```
+        ```CSS
+        width: 100%;
+        ```
     - Damos más relleno (en porcentaje) a los laterales izquierdo y derecho de la columna principal. Damos más relleno (en píxeles) al lateral superior y al inferior.
-    ```CSS
-    padding: top left right bottom;
-    ```
+        ```CSS
+        padding: top left right bottom;
+        ```
     - Eliminamos el menú de navegación (HTML y estilos asociados).
+    - Vamos a darle una altura de la mitad de la vertical de la página al encabezado (sección head: ```class="header"```).
+        ```CSS
+        height: 50vh;
+        ```
+    - Cambiamos el estilo (```font-family```) y el tamaño (```font-size```) de fuente al encabezado (sección head: ```class="header"```).
+    [Google Fonts](https://fonts.google.com/ "fuentes")
+    : 
+    
 
 - - - -
 Extensiones interesantes para VSC:
