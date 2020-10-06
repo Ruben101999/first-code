@@ -2,7 +2,7 @@
 https://dannylarrea.github.io/first-code/
 - - - -
 ## 30 de septiembre y 1 de octubre :white_check_mark:
-Comandos **Git**
+Comandos Git:
 ```git
     git clone HTTPS
     git pull
@@ -15,3 +15,7 @@ Comandos **Git**
 ## 7 y 8 de octubre :mega:
 Objetivo:
 ![picture alt](https://raw.githubusercontent.com/dannylarrea/reread-php/master/BackupRandom/form.png "formulario: autor y país")
+
+Pasos:
+- Copiar la estructura y los estilos del recurso [Responsive Web Page - Full Example](https://dannylarrea.github.io/reread "código fuente") (w3schools.com)
+- 
