@@ -36,8 +36,16 @@ Pasos:
     -->
     ```
 4. Editamos el proyecto:
+    - Añadimos título
     - Nos quedamos únicamente con una columna que ocupe el 100% de ancho de la página.
-    - Damos más relleno (en porcentaje) a los laterales de la columna principal.
+    ```CSS
+    width: 100%;
+    ```
+    - Damos más relleno (en porcentaje) a los laterales izquierdo y derecho de la columna principal. Damos más relleno (en píxeles) al lateral superior y al inferior.
+    ```CSS
+    padding: top left right bottom;
+    ```
+    - Eliminamos el menú de navegación (HTML y estilos asociados).
 
 - - - -
 Extensiones interesantes para VSC:
