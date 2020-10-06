@@ -29,10 +29,11 @@ Pasos:
 2. Copiar la estructura y los estilos del recurso [CSS Website Layout](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_grid "código fuente") (w3schools.com).
 3. Separar los estilos CSS del HTML.
     ```HTML
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!--
     Los estilos externos son definidos con la etiqueta <link>,
     dentro de la sección <head> de la página HTML:
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
-    <!--El atributo href especifica el destino del link-->
+    -->
     ```
 4. 
 
