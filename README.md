@@ -28,8 +28,9 @@ Pasos:
     ```
 2. Copiar la estructura y los estilos del recurso [CSS Website Layout](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_grid "código fuente") (w3schools.com).
 3. Separar los estilos CSS del HTML.
-    ```html
-    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    ```HTML
+    External styles are defined within the <link> element, inside the <head> section of an HTML page:
+    <link rel="stylesheet" type="text/css" href="css/styles.css"><!--The href attribute specifies the link's destination-->
     ```
 4. 
 
