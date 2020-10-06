@@ -35,7 +35,8 @@ Pasos:
     dentro de la sección <head> de la página HTML:
     -->
     ```
-4. 
+4. Editamos el proyecto:
+    - Nos quedamos únicamente con una columna que ocupe el 100% de ancho de la página.
 
 - - - -
 Extensiones interesantes para VSC:

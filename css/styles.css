@@ -48,7 +48,7 @@ body {
 
 .column {
     float: left;
-    width: 33.33%;
+    width: 100%;
     padding: 15px;
 }
 
