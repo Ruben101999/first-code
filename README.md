@@ -19,12 +19,12 @@ Objetivo:
 Pasos:
 - Generar la estructura de directorios y ficheros del proyecto:
     ```
-    **first-code**
-        - **css/**
+    first-code
+        - css/
             - styles.css
-        - **img/**
-        - **view/**
+        - img/
+        - view/
         - index.html
     ```
-- Copiar la estructura y los estilos del recurso [Responsive Web Page - Full Example](https://dannylarrea.github.io/reread "código fuente") (w3schools.com)
+- Copiar la estructura y los estilos del recurso [Responsive Web Page - Full Example](https://dannylarrea.github.io/reread "código fuente") (w3schools.com). Separar los estilos del HTML.
 - 
