@@ -37,6 +37,7 @@ Pasos:
     ```
 4. Editamos el proyecto:
     - Nos quedamos únicamente con una columna que ocupe el 100% de ancho de la página.
+    - Damos más relleno (en porcentaje) a los laterales de la columna principal.
 
 - - - -
 Extensiones interesantes para VSC:
