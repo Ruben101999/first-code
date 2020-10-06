@@ -17,8 +17,8 @@ Objetivo:
 ![picture alt](https://raw.githubusercontent.com/dannylarrea/reread-php/master/BackupRandom/form.png "formulario: autor y país")
 
 Pasos:
-- Generar la estructura de directorios y ficheros del proyecto:
-    ```
+1. Generar la estructura de directorios y ficheros del proyecto:
+    ```hash
     first-code
         - css/
             styles.css
@@ -26,5 +26,6 @@ Pasos:
         - view/
         - index.html
     ```
-- Copiar la estructura y los estilos del recurso [Responsive Web Page - Full Example](https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_media_query3 "código fuente") (w3schools.com). Separar los estilos del HTML.
-- 
+2. Copiar la estructura y los estilos del recurso [CSS Website Layout](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_grid "código fuente") (w3schools.com).
+3. Separar los estilos CSS del HTML.
+4. 
