@@ -65,24 +65,30 @@ Pasos:
         - HTML
             ```HTML
             <div class="gallery">
-                <img src="" alt="Descripción de la imagen">
-                <div class="description">...</div>
+                <img src="url" alt="alternatetext">
+                <div class="desc">...</div>
             </div>
+            <!--
+            La etiqueta <img> está vacía, solo contiene atributos y no tiene una etiqueta de cierre.
+            Tiene dos atributos obligatorios:
+                src: especifica la ruta a la imagen
+                alt: especifica un texto alternativo para la imagen
+            -->
             ```
         - CSS
             ```CSS
-            /*Gallery*/
+            /*Image Gallery*/
             .gallery {
                 padding: 20px;
                 float: left;
                 width: 33.33%;
             }
 
-            .gallery img, .inlineImg img {
+            .gallery img {
                 width: 100%;
             }
 
-            div.description {
+            .gallery desc {
                 padding: 15px;
                 text-align: center;
             }
