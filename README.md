@@ -18,14 +18,12 @@ Objetivo:
 
 Pasos:
 1. Generar la estructura de directorios y ficheros del proyecto:
-    ```HASH
     first-code
-        - css/
+        :open_file_folder: css/
             styles.css
         - img/
         - view/
         - index.html
-    ```
 2. Copiar la estructura y los estilos del recurso [CSS Website Layout](https://www.w3schools.com/css/tryit.asp?filename=trycss_website_layout_grid "código fuente") (w3schools.com).
 3. Separar los estilos CSS del HTML.
     ```HTML
