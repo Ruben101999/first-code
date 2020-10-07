@@ -53,15 +53,14 @@ Pasos:
         ```CSS
         height: 50vh;
         ```
-    - Cambiamos el estilo ```font-family``` y el tamaño ```font-size``` de fuente al encabezado ```class="header"```.
-    - Cambiamos el estilo y el tamaño de fuente a toda la página.
+    - Cambiamos el estilo ```font-family``` y el tamaño ```font-size``` de fuente a toda la página.
         - [Google Fonts](https://fonts.google.com/ "fuentes")
     - Nos quedamos únicamente con el siguiente elemento dentro de la columna principal:
         ```HTML
         <h2 style="color: green; text-align: center;">HTML - CSS - XML</h2>
         ```
-    Posteriormente pasamos estos estilos en línea ```style``` a la hoja de estilos externa.
-    - Añadimos una galería
+        Posteriormente pasamos estos estilos en línea ```style``` a la hoja de estilos externa.
+    - Añadimos una galería de imágenes con descripciones
         - HTML
             ```HTML
             <div class="gallery">
@@ -93,6 +92,11 @@ Pasos:
                 text-align: center;
             }
             ```
+    - Añadimos una imagen de fondo al encabezado ```class="header"```.
+        ```CSS
+        background-image: url('path');
+        background-size: cover;
+        ```
 
 - - - -
 Extensiones interesantes para VSC:
