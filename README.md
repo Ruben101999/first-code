@@ -18,7 +18,7 @@ Objetivo:
 
 Pasos:
 1. Generar la estructura de directorios y ficheros del proyecto:
-    ```JS
+    ```HASH
     first-code
         - css/
             styles.css
