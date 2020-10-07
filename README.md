@@ -14,7 +14,7 @@ Comandos Git:
 
 ## 7 y 8 de octubre :mega:
 Objetivo:
-![picture alt](https://raw.githubusercontent.com/dannylarrea/reread-php/master/BackupRandom/form.png "formulario: autor y país")
+![picture alt](https://raw.githubusercontent.com/dannylarrea/first-code/master/img/objetivo_1.png "first-code")
 
 Pasos:
 1. Generar la estructura de directorios y ficheros del proyecto:
