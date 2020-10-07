@@ -46,7 +46,7 @@ Pasos:
         ```
     - Damos más relleno (en porcentaje) a los laterales izquierdo y derecho de la columna principal. Damos más relleno (en píxeles) al lateral superior y al inferior.
         ```CSS
-        padding: top left right bottom;
+        padding: top left bottom right;
         ```
     - Eliminamos el menú de navegación (HTML y estilos asociados).
     - Vamos a darle una altura de la mitad de la vertical de la página al encabezado ```class="header"```.
