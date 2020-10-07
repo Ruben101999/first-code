@@ -17,10 +17,10 @@ Objetivo:
 ![picture alt](https://raw.githubusercontent.com/dannylarrea/first-code/master/img/objetivo_1.png "first-code")
 
 Pasos:
-1. Generar la estructura de directorios y ficheros del proyecto:
-    ```
-        first-code
-        :open_file_folder: css/
+1. Generar la estructura de directorios :open_file_folder: y ficheros :page_facing_up: del proyecto:
+    ```HASH
+    first-code
+        - css/
             styles.css
         - img/
         - view/
