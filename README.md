@@ -53,6 +53,8 @@ Pasos:
         ```CSS
         height: 50vh;
         ```
+        Inconvenientes de utilizar una medida estática/fija? Qué sucede si no configuramos la altura?
+        - Hay que **vh** cuando sea necesario. 
     - Cambiamos el estilo ```font-family``` y el tamaño ```font-size``` de fuente a toda la página.
         - [Google Fonts](https://fonts.google.com/ "fuentes")
     - Nos quedamos únicamente con el siguiente elemento dentro de la columna principal:
